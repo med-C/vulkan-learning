@@ -1,7 +1,3 @@
-<!-- ANIMATION (si elle marche) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=AA66FF&center=true&vCenter=true&width=800&lines=Welcome+to+the+Forge;Vulkan+Learning+Repository;Low‑Level+Graphics+Programming" />
-</p>
 
 <!-- FALLBACK (si l'animation ne s'affiche pas, ce texte apparaîtra) -->
 <noscript>
